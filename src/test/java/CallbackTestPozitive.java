@@ -13,7 +13,7 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class CallbackTestNegative {
+class CallbackTest {
     private WebDriver driver;
 
     @BeforeAll
